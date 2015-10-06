@@ -69,6 +69,7 @@ a:hover {
     color:#f44d3c;
     font-family: "Microsoft YaHei", '仿宋', '华文细黑'， sans-serif;
     font-size: 2em;
+    letter-spacing:1px;
 }
 
 .navbar-trans li>a:focus,.navbar-trans li.active {
