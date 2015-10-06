@@ -172,19 +172,24 @@ section {
   font-size: 1em;
 }
 
-#section5 {
+#section5,#section7 {
 	background-color: rgba(0,0,0,0.9);
   color:#fff;
 }
 
 #section6 {
+  background-color: #f6f6f6;
+  color:#444;
+}
+
+#section8 {
   background-color: #eee;
 	/*min-height:130px;*/
 	padding-top:40px;
 	padding-bottom:40px;
 }
 
-#section7 {
+#section9 {
 	background-color: #f44d3c;
 /*	color: #f6f6f6;*/
 	min-height:130px;
